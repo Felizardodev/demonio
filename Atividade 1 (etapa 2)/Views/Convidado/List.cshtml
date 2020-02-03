@@ -1,0 +1,38 @@
+
+@using Models
+@model List<Models.Convidado>
+
+@{
+   int index = 1;
+   string confirma;
+}
+
+
+    <div style="text-align: center "> 
+        <table>
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Nome</th>
+                    <th>Idade</th>
+                    <th>Telefone</th>
+                    <th>Confirma Presença</th>
+                </tr>
+            </thead>  
+        <tbody> 
+        @foreach (Convidado convidado in Model) 
+        {
+            {confirma = convidado.confirmaPresenca ? "Sim" : "Não";}
+        <tr>
+            <td>@index</td>
+            <td>@convidado.nome</td>
+            <td>@convidado.idade</td>
+            <td>@convidado.telefone</td>
+            <td>@confirma</td>
+        </tr>
+         {index++;}
+        }
+        </tbody> 
+        </table>
+        <a asp-controller="Home" asp-action="Index">Voltar para home</a>
+    </div>

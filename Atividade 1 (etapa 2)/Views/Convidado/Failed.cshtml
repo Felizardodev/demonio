@@ -1,0 +1,11 @@
+@using System.Collections.Generic
+
+@model Models.Convidado
+@{
+    ViewData["Title"] = "Confirmação";
+}
+<div>
+    <h2>  Confirmação de Presença </h2>
+    <p> O convidado , @Model.nome, <strong> não </strong> pode ser cadastrado.</p>
+    <a asp-asp-controller="Convidado" asp-action="Index">Confirmar presença de outra pessoa.</a>
+</div>

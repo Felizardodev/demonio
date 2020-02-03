@@ -1,0 +1,23 @@
+@using System.Collections.Generic
+
+@model Models.Convidado
+@{
+    ViewData["Title"] = "Confirmação";
+}
+<div>
+    <h2> Confirmação de Presença </h2>
+    <form asp-controller="Convidado" asp-action="Create" method="post">
+        <label asp-for="nome">Nome:</label>
+        <input asp-for="nome"/>
+        <label asp-for="telefone">Telefone:</label>
+        <input asp-for="telefone"/>
+        <br/>
+        <label asp-for="idade">Idade:</label>
+        <input asp-for="idade" min="0" max="150"/>
+        <label asp-for="confirmaPresenca">Confirmar Presença:</label>
+        <input asp-for="confirmaPresenca"/>
+        <br/>
+        <button type="submit" >Enviar</button>
+    </form>
+    <a asp-controller="Home" asp-action="Index">Voltar para home</a>
+</div>

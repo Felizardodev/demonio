@@ -1,0 +1,36 @@
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\obj\Debug\netcoreapp3.1\Atividade 1 (etapa 2).csprojAssemblyReference.cache
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\obj\Debug\netcoreapp3.1\staticwebassets\Atividade 1 (etapa 2).StaticWebAssets.Manifest.cache
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\obj\Debug\netcoreapp3.1\staticwebassets\Atividade 1 (etapa 2).StaticWebAssets.xml
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\obj\Debug\netcoreapp3.1\Atividade 1 (etapa 2).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\obj\Debug\netcoreapp3.1\Atividade 1 (etapa 2).RazorAssemblyInfo.cache
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\obj\Debug\netcoreapp3.1\Atividade 1 (etapa 2).RazorAssemblyInfo.cs
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\obj\Debug\netcoreapp3.1\Atividade 1 (etapa 2).AssemblyInfoInputs.cache
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\obj\Debug\netcoreapp3.1\Atividade 1 (etapa 2).AssemblyInfo.cs
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\obj\Debug\netcoreapp3.1\Atividade 1 (etapa 2).TagHelpers.input.cache
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\obj\Debug\netcoreapp3.1\Atividade 1 (etapa 2).TagHelpers.output.cache
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\obj\Debug\netcoreapp3.1\Atividade 1 (etapa 2).RazorCoreGenerate.cache
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\obj\Debug\netcoreapp3.1\Atividade 1 (etapa 2).RazorTargetAssemblyInfo.cache
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\obj\Debug\netcoreapp3.1\Atividade 1 (etapa 2).RazorTargetAssemblyInfo.cs
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\obj\Debug\netcoreapp3.1\Atividade 1 (etapa 2).dll
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\obj\Debug\netcoreapp3.1\Atividade 1 (etapa 2).pdb
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\bin\Debug\netcoreapp3.1\Atividade 1 (etapa 2).exe
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\bin\Debug\netcoreapp3.1\Atividade 1 (etapa 2).deps.json
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\bin\Debug\netcoreapp3.1\Atividade 1 (etapa 2).runtimeconfig.json
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\bin\Debug\netcoreapp3.1\Atividade 1 (etapa 2).runtimeconfig.dev.json
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\bin\Debug\netcoreapp3.1\Atividade 1 (etapa 2).dll
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\bin\Debug\netcoreapp3.1\Atividade 1 (etapa 2).pdb
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\bin\Debug\netcoreapp3.1\Atividade 1 (etapa 2).Views.dll
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\bin\Debug\netcoreapp3.1\Atividade 1 (etapa 2).Views.pdb
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\obj\Debug\netcoreapp3.1\Atividade 1 (etapa 2).Views.pdb
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\obj\Debug\netcoreapp3.1\Atividade 1 (etapa 2).csproj.CopyComplete
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\obj\Debug\netcoreapp3.1\Razor\Views\Convidado\Index.cshtml.g.cs
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\obj\Debug\netcoreapp3.1\Razor\Views\Convidado\Failed.cshtml.g.cs
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\obj\Debug\netcoreapp3.1\Razor\Views\Convidado\List.cshtml.g.cs
+C:\Users\Suelen\Desktop\Atividade 1 (etapa 2)\obj\Debug\netcoreapp3.1\Razor\Views\Convidado\Success.cshtml.g.cs
